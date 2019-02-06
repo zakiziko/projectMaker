@@ -1,0 +1,13 @@
+{
+"name" : "gestion",
+"version": "1.0.0", 
+"main": "server.js", 
+"scripts": { 
+"start": "node server.js" }, 
+"author": "gestui ", 
+"license": "ISC", 
+"dependencies": { 
+"express": "^4.16.4", 
+"body-parser": "^1.18.3", 
+ "mongoose":"^5.4.7" } 
+}
